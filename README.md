@@ -73,12 +73,14 @@ IoT개발자 과정 사전학습 리포지토리
 
  - 깃허브 로컬리포지토리 생성
   1. git for Windows 설치
-     -https://git-scm.com/install/windows 에서 `install for windows` 버튼 클릭
-     -Git for windows x64 설치
-     -Git 설치 옵션은 기본 그대로 사용 가능(변경하지 말 것)
-     -cmd 또는 powershell 에서 `git --version`, `git -v` 확인
+     - https://git-scm.com/install/windows 에서 `install for windows` 버튼 클릭
+     - Git for windows x64 설치
+     - Git 설치 옵션은 기본 그대로 사용 가능(변경하지 말 것)
+     - cmd 또는 powershell 에서 `git --version`, `git -v` 확인
   3. Github Desktop 설치
     - https://github.com/apps/desktop?locale=ko-KR 에서 다운로드 클릭, 설치
     - 계정 브라우저 연동 
   4. 리포지토리 클론
-  5. 
+     - Github Desktop 메뉴 Clone Repository 클릭
+     - Github.com 탭에서 저장소 검색, 선택
+     - Local Path 지정 후 `클론` 버튼 클릭
