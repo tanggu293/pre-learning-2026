@@ -109,5 +109,8 @@ IoT개발자 과정 사전학습 리포지토리
   9. cmd 또는 pwershell 오픈, `pyhon --version` 확인
   
   10.VS Code , extension(확장)에서 python 검색 후 설치
+
+  11. VS Code를 재오픈 폴더 생성
+  
      
   - 프로그램 개발 개념
