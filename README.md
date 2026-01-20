@@ -95,4 +95,13 @@ IoT개발자 과정 사전학습 리포지토리
   2. 픽픽 - https://picpick.net
   
 - **파이썬** 개발환경 설정
-  1.
+  1. https://www.python.org/ 에서download의 `python 3.1x.x 버튼클릭`
+  2. Add python.exe. to PATH 체크 활성화 후
+  3. Installer > Customize installation 클릭
+  4. Documentation 체크 해제, For all users 체크 활성화 다음
+  5. Advanced Options 에서 Install Python 3.1x for all users 체크
+  6. 경로 변경후 설치
+    <img width="660" height="422" alt="image" src="https://github.com/user-attachments/assets/72048b6c-8874-4ce8-8137-f8bf8c18adcf" />
+
+
+  - 프로그램 개발 개념
