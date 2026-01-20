@@ -39,18 +39,19 @@ IoT개발자 과정 사전학습 리포지토리
   <img src="이미지URL" width="500">
 
    ```
- - [네이버](https://naver.com)
+
+    - [네이버](https://naver.com)
    
- - ![강남](https://naverpa-phinf.pstatic.net/MjAyNjAxMDZfNjUg/MDAxNzY3Njc1OTQ1NzQ1.LUDf36_DqwqfFNOVFr3bA2BMNefn1oGd9iv_Lry60g8g.1ZuVNZBSKtH7Wx01NAAL6BdXF9HJ7jW0mZyvvw8W15og.JPEG/0_342x228_176767594573317555301678645804685.jpg)
- - <img src="https://naverpa-phinf.pstatic.net/MjAyNjAxMDZfNjUg/MDAxNzY3Njc1OTQ1NzQ1.LUDf36_DqwqfFNOVFr3bA2BMNefn1oGd9iv_Lry60g8g.1ZuVNZBSKtH7Wx01NAAL6BdXF9HJ7jW0mZyvvw8W15og.JPEG/0_342x228_176767594573317555301678645804685.jpg" width="300">
- -이미지와 링크의 차이는 !로시작하는지 밖에 없음 
+    - ![강남](https://naverpa-phinf.pstatic.net/MjAyNjAxMDZfNjUg/MDAxNzY3Njc1OTQ1NzQ1.LUDf36_DqwqfFNOVFr3bA2BMNefn1oGd9iv_Lry60g8g.1ZuVNZBSKtH7Wx01NAAL6BdXF9HJ7jW0mZyvvw8W15og.JPEG/0_342x228_176767594573317555301678645804685.jpg)
+    - <img src="https://naverpa-phinf.pstatic.net/MjAyNjAxMDZfNjUg/MDAxNzY3Njc1OTQ1NzQ1.LUDf36_DqwqfFNOVFr3bA2BMNefn1oGd9iv_Lry60g8g.1ZuVNZBSKtH7Wx01NAAL6BdXF9HJ7jW0mZyvvw8W15og.JPEG/0_342x228_176767594573317555301678645804685.jpg" width="300">
+    -이미지와 링크의 차이는 !로시작하는지 밖에 없음 
 
  - <img width="703" height ="463" alt ="image" src="https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxw_hj1QVGq0qsmKF1LdpJPicLOrn_lb3yKMHzGCRp_q4tMzN_c6Yhvrj5Dv3E5VCcnyUhh7c28iBKg3o0AP6Ixj-at4OxGauld2y7twY8_lf-BxG-PnL3LUHXkCzqwLhyPh4g8=s680-w680-h510-rw">
 
    4. 가로줄
      ```markdown
      ---
-     ''`
+     ```
 ---
    5. 코드블럭
      - 소스코드를 작성할 때 코드하이라이팅, 영역표시 때 사용
@@ -65,4 +66,19 @@ IoT개발자 과정 사전학습 리포지토리
         ```markdown
         *,~,__, html u 태그사용, i 이탤릭 사용
         ```
-        - 문장을 작성할 시 **강조** ~~취소~~ 선, __강조__. <u>밑줄</u>,<i>이탤릭<i> 을 사용할 수 있습니다. 
+        - 문장을 작성할 시 **강조** ~~취소~~ 선, __강조__. <u>밑줄</u>,<i>이탤릭</i>을 사용할 수 있습니다. 
+
+
+
+
+ - 깃허브 로컬리포지토리 생성
+  1. git for Windows 설치
+     -https://git-scm.com/install/windows 에서 `install for windows` 버튼 클릭
+     -Git for windows x64 설치
+     -Git 설치 옵션은 기본 그대로 사용 가능(변경하지 말 것)
+     -cmd 또는 powershell 에서 `git --version`, `git -v` 확인
+  3. Github Desktop 설치
+    - https://github.com/apps/desktop?locale=ko-KR 에서 다운로드 클릭, 설치
+    - 계정 브라우저 연동 
+  4. 리포지토리 클론
+  5. 
