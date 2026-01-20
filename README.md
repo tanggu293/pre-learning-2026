@@ -103,5 +103,7 @@ IoT개발자 과정 사전학습 리포지토리
   6. 경로 변경후 설치
     <img width="660" height="422" alt="image" src="https://github.com/user-attachments/assets/72048b6c-8874-4ce8-8137-f8bf8c18adcf" />
 
+  8. Setup was successful 에서 Disable path length limit 클릭(필수!)
+     <img width="752" height="455" alt="image" src="https://github.com/user-attachments/assets/31a3b4c8-c3e7-4250-a64b-afe6fca3a9ae" />
 
   - 프로그램 개발 개념
