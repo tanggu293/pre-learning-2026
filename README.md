@@ -105,5 +105,9 @@ IoT개발자 과정 사전학습 리포지토리
 
   8. Setup was successful 에서 Disable path length limit 클릭(필수!)
      <img width="752" height="455" alt="image" src="https://github.com/user-attachments/assets/31a3b4c8-c3e7-4250-a64b-afe6fca3a9ae" />
+
   9. cmd 또는 pwershell 오픈, `pyhon --version` 확인
+  
+  10.VS Code , extension(확장)에서 python 검색 후 설치
+     
   - 프로그램 개발 개념
