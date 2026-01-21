@@ -106,11 +106,68 @@ IoT개발자 과정 사전학습 리포지토리
   8. Setup was successful 에서 Disable path length limit 클릭(필수!)
      <img width="752" height="455" alt="image" src="https://github.com/user-attachments/assets/31a3b4c8-c3e7-4250-a64b-afe6fca3a9ae" />
 
-  9. cmd 또는 pwershell 오픈, `pyhon --version` 확인
+  9. cmd 또는 powershell 오픈, `python --version` 확인
   
   10.VS Code , extension(확장)에서 python 검색 후 설치
 
   11. VS Code를 재오픈 폴더 생성
   
-     
+ ##2일차
+
+ - VS Code 설정
+  1.  미니맵 설정 : 설정 > 미니맵 검색,
+    - Editor > Minimap : Enabled 체크 해제
+  2.  폰트 지정
+    - 나눔고딕코딩, D2Coding 등 한글지원 코딩글자체 사용
+    - https://github.com/naver/nanumfont
+    - 설정 > Editor : Font Family 맨앞에, NanumGothicCoding, 입력
+  3.  Mouse Wheel Zoom : 체크 활성화
+         
   - 프로그램 개발 개념
+    - 프로그램: 데이터를 처리하는 명령을 수행하는 것
+    
+    - 단순구조 : 데이터를 직접 처리하는 프로그램
+
+      ![alt text](image.png)
+
+  - DB사용구조 : 데이터를 DB 에서 저장, 프로그램에서 데이터 처리( 전송 및 표현 )
+    ![alt text](image-1.png)
+    - DB가 같은 컴퓨터에 존재할 수도 있고, 다른 컴퓨터(서버)에 존재할 수 있음
+
+  - IoT확장구조 : 데이터는 IoT에서 수집, 통신프로그램도 분리, 서버도 분리
+    ![alt text](image-2.png)
+    - 클라우드나 가상머신을 사용할 수도 있음
+
+  - 학습할 언어, 기술
+    - C, C++
+    - DataBSE(MySQL) : IoT장비와 같이 사용하기 위함
+    - Python
+    - C# : WinApp, WebApp(HTML, JS, ...), IoT 모니터링, DB처리...
+    - Linux : ROS, 라즈베리파이 OS 
+    - 네트워크 통신, Iot, 데이터분석(ML,DL), 알고리즘, 코딩테스트
+
+
+
+
+- 파이썬
+  - 기본문법  
+    - 변수와 자료형 
+    - 제어문(if,while,for ..조건문, 반복문)
+    - 함수(또는 메서드)
+    - 파일 입출력
+    - 객체지향
+    - 예외처리
+
+- 변수와 자료형
+    - [변수](./day02/variable.py) 확인
+    - [자료형](./datatype.py)
+
+- 제어문
+  - [if문](./day02/if_statement.py) 확인
+  - [while문](./day02/while_statement.py) 확인
+  - [for문](./day02/for_statement.py) 확인
+
+##3일차
+- 파이썬 
+  - 기본문법
+  - 함수
