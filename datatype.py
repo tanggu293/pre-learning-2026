@@ -19,6 +19,6 @@ print(pi)
 print(is_student)
 
 name =  '탱구'
-age = 30
+age = 18
 height = 169.5
 print("이름은 : "+ name + ", 나이 : " + str(age) + ',키 :' + str(height))

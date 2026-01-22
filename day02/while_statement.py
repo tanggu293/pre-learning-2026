@@ -47,3 +47,4 @@ while number < 10: # number 가 10보다 작을 동안
     print(number)
 
 print('프로그램 종료')
+
